@@ -3,18 +3,22 @@
     {
       "title": "Buy apples",
       "text": "Don't forget to 23 apples"
+      "data": "01.12.18"
     },
     {
       "title": "Go for a walk",
       "text": "Walking is very good for health"
+      "data": "31.12.18"
     },
     {
       "title": "Buy a drink",
       "text": "Dont forget to rela"
+      "data": "11.02.18"
     },
     {
       "title": "Get some sleep",
       "text": "I have to take a nap! I want to sleep! AWWGH!!!"
+      "data": "21.07.17"
     }
   ]
 }
